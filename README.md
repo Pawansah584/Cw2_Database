@@ -1,2 +1,2 @@
 # Cw2_Database
-Web Development Coursework 2 Database Creation
+This Repository contains Web Development Coursework 2 Database Creation and it's ER diagram.
